@@ -1,0 +1,16 @@
+name: apiverve_bucketlist
+description: Bucket List is a simple tool for getting a random bucket list item. It returns a random bucket list item
+version: 1.1.14
+homepage: https://apiverve.com/marketplace/bucketlist?utm_source=dart&utm_medium=homepage
+repository: https://github.com/apiverve/bucketlist-api/tree/main/dart
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.1.0
+  http_parser: ^4.0.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
