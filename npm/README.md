@@ -116,7 +116,7 @@ async function makeRequest() {
   "status": "ok",
   "error": null,
   "data": {
-    "bucketListItem": "Learn to animate"
+    "bucketListItem": "Go on a educational trip"
   }
 }
 ```
