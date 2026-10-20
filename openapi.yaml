@@ -2,8 +2,9 @@ openapi: 3.0.4
 info:
   title: Bucket List
   description: >-
-    Bucket List is a simple tool for getting a random bucket list item. It
-    returns a random bucket list item
+    Bucket List supplies a random bucket list idea for life goals, travel
+    aspirations, and personal adventures. Call the endpoint with no parameters
+    to receive a single activity suggestion.
   termsOfService: https://apiverve.com/terms/
   contact:
     name: APIVerve Support
@@ -18,7 +19,7 @@ servers:
 paths:
   /v1/bucketlist:
     get:
-      summary: Get Random Bucket List Item
+      summary: Bucket List
       description: >-
         Bucket List is a simple tool for getting a random bucket list item. It
         returns a random bucket list item
