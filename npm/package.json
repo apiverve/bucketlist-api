@@ -1,7 +1,7 @@
 {
   "name": "@apiverve/bucketlist",
-  "version": "1.2.0",
-  "description": "Bucket List is a simple tool for getting a random bucket list item. It returns a random bucket list item",
+  "version": "1.2.2",
+  "description": "Bucket List supplies a random bucket list idea for life goals, travel aspirations, and personal adventures. Call the endpoint with no parameters to receive a single activity suggestion.",
   "main": "index.js",
   "types": "index.d.ts",
   "sideEffects": false,
@@ -23,7 +23,7 @@
     "directory": "npm"
   },
   "keywords": [
-    "bucket list", "bucket list api", "bucket list tool", "bucket list software", "bucket list service"
+    "bucket list api", "random bucket list ideas", "life goals generator", "travel bucket list ideas", "things to do before you die"
   ],
   "author": {
     "name": "APIVerve",
@@ -34,7 +34,7 @@
   "bugs": {
     "url": "https://github.com/apiverve/bucketlist-api/issues"
   },
-  "homepage": "https://apiverve.com/marketplace/bucketlist?utm_source=npm&utm_medium=homepage",
+  "homepage": "https://apiverve.com/marketplace/bucketlist?utm_source=npm&utm_medium=referral&utm_content=homepage",
   "devDependencies": {
     "mocha": "^11.0.1",
     "chai": "^5.1.2",
