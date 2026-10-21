@@ -1,7 +1,7 @@
 {
     "name": "apiverve/bucketlist",
-    "description": "Bucket List is a simple tool for getting a random bucket list item. It returns a random bucket list item",
-    "version": "1.2.0",
+    "description": "Bucket List supplies a random bucket list idea for life goals, travel aspirations, and personal adventures. Call the endpoint with no parameters to receive a single activity suggestion.",
+    "version": "1.2.2",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -15,13 +15,13 @@
         "api",
         "apiverve",
         "bucketlist",
-        "bucket list",
         "bucket list api",
-        "bucket list tool",
-        "bucket list software",
-        "bucket list service"
+        "random bucket list ideas",
+        "life goals generator",
+        "travel bucket list ideas",
+        "things to do before you die"
     ],
-    "homepage": "https://apiverve.com/marketplace/bucketlist?utm_source=php&utm_medium=homepage",
+    "homepage": "https://apiverve.com/marketplace/bucketlist?utm_source=php&utm_medium=referral&utm_content=homepage",
     "support": {
         "email": "hello@apiverve.com",
         "docs": "https://docs.apiverve.com/ref/bucketlist",
