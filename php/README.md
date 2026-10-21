@@ -1,6 +1,6 @@
 # Bucket List API - PHP Package
 
-Bucket List is a simple tool for getting a random bucket list item. It returns a random bucket list item
+Bucket List supplies a random bucket list idea for life goals, travel aspirations, and personal adventures. Call the endpoint with no parameters to receive a single activity suggestion.
 
 ## Installation
 
@@ -81,11 +81,11 @@ $client = new Client(
 
 ## Documentation
 
-For more information, visit the [API Documentation](https://docs.apiverve.com/ref/bucketlist?utm_source=packagist&utm_medium=readme).
+For more information, visit the [API Documentation](https://docs.apiverve.com/ref/bucketlist?utm_source=packagist&utm_medium=referral&utm_content=readme).
 
 ## Support
 
-- Website: [https://apiverve.com/marketplace/bucketlist?utm_source=php&utm_medium=readme](https://apiverve.com/marketplace/bucketlist?utm_source=php&utm_medium=readme)
+- Website: [https://apiverve.com/marketplace/bucketlist?utm_source=php&utm_medium=referral&utm_content=readme](https://apiverve.com/marketplace/bucketlist?utm_source=php&utm_medium=referral&utm_content=readme)
 - Email: hello@apiverve.com
 
 ## License
