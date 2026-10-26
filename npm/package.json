@@ -1,6 +1,6 @@
 {
   "name": "@apiverve/bucketlist",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Bucket List supplies a random bucket list idea for life goals, travel aspirations, and personal adventures. Call the endpoint with no parameters to receive a single activity suggestion.",
   "main": "index.js",
   "types": "index.d.ts",
