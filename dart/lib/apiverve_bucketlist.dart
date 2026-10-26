@@ -1,8 +1,8 @@
 /// Bucket List API client for Dart/Flutter
 ///
-/// Bucket List is a simple tool for getting a random bucket list item. It returns a random bucket list item
+/// Bucket List supplies a random bucket list idea for life goals, travel aspirations, and personal adventures. Call the endpoint with no parameters to receive a single activity suggestion.
 ///
-/// For more information, visit: https://apiverve.com/marketplace/bucketlist?utm_source=dart&utm_medium=readme
+/// For more information, visit: https://apiverve.com/marketplace/bucketlist?utm_source=dart&utm_medium=referral&utm_content=readme
 library apiverve_bucketlist;
 
 export 'src/client.dart';
