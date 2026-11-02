@@ -1,6 +1,6 @@
 name: apiverve_bucketlist
 description: "Bucket List supplies a random bucket list idea for life goals, travel aspirations, and personal adventures. Call the endpoint with no parameters to receive a single activity suggestion."
-version: 1.2.3
+version: 1.2.4
 homepage: https://apiverve.com/marketplace/bucketlist?utm_source=dart&utm_medium=referral&utm_content=homepage
 repository: https://github.com/apiverve/bucketlist-api/tree/main/dart
 
