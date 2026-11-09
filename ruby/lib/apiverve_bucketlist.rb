@@ -4,6 +4,6 @@ require_relative "apiverve_bucketlist/client"
 
 module APIVerve
   module Bucketlist
-    VERSION = "1.2.4"
+    VERSION = "1.2.5"
   end
 end
